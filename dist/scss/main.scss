@@ -4,12 +4,33 @@
     margin-right: 1em;
   }
 
-  // .nav {
-  // }
+  .top-container {
+    background-color: #f1f1f1;
+    padding: 20px;
+    text-align: center;
+  }
 
-  // .navbar {
-  //   background-color: primary;
-  // }
+  .top-container p {
+    float: right;
+  }
+
+  #navbar {
+    overflow: hidden;
+  }
+
+  #nav-brand {
+    font-size: x-large;
+  }
+
+  .sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+
+  .sticky + .content {
+    padding-top: 60px;
+  }
 
   body{
     padding: 0;
