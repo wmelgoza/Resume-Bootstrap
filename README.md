@@ -1,3 +1,3 @@
 # Resume-Bootstrap
 
-My Github pages Resume
+My Github pages resume. Using Bootstrap, SCSS, VSCode.
